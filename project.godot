@@ -14,6 +14,11 @@ config/name="The Buttons"
 config/features=PackedStringArray("4.0", "Mobile")
 config/icon="res://icon.svg"
 
+[display]
+
+window/size/viewport_width=600
+window/size/viewport_height=1024
+
 [rendering]
 
 renderer/rendering_method="mobile"
